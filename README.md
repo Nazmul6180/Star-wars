@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This is a simple little personal project which generates random StarWars characters through an API call.
+hope you like it.
+  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
